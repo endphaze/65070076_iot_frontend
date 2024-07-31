@@ -11,7 +11,7 @@ import HomePage from "./pages";
 import { Notifications } from "@mantine/notifications";
 import BooksPage from "./pages/books";
 import BookByIdPage from "./pages/book-by-id";
-import BookEditById from "./pages/book-edit-by-id";
+// import BookEditById from "./pages/book-edit-by-id";
 import { ModalsProvider } from "@mantine/modals";
 import BookCreatePage from "./pages/book-create";
 import Coffee from "./pages/coffee";
